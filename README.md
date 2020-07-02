@@ -1,4 +1,4 @@
-# hardnhh1920
+# Competitive programming archive
  This repository is created with the purpose of archiving Vietnamese competitive programming exercise
  
  It is divided into 3 part: A,B and 0
