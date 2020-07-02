@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.err
+*.bak
+
+*.int
+*.out
+*.in
+*.ou
