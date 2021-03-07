@@ -1,3 +1,6 @@
+//Sun, March 7, 2021
+//https://vn.spoj.com/problems/VRATF/
+
 var
         f:text;
         n,k: longint;
