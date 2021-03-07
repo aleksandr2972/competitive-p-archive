@@ -1,3 +1,6 @@
+//Fri-Sat, Mar 5-6, 2021
+//http://ntucoder.net/Problem/Details/105
+
 type
         city = record
                 pos,dis,price: integer;
