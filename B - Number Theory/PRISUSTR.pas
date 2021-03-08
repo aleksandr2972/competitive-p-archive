@@ -1,3 +1,5 @@
+//Mon, Mar 8, 2021
+//https://www.spoj.com/PTIT/problems/PRISUSTR/
 type 
     sieve = array [1..100000] of boolean;
     nono = array [1..10000] of string; 
