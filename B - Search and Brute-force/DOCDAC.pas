@@ -1,3 +1,6 @@
+//Mar 27, 2021
+//It's a Josephus Problem. 
+//With n = 2009, k = 612. And also asked us where to start if we want the last survivor is the lth one.
 type
         marker = array [1..2009] of boolean;
 var
